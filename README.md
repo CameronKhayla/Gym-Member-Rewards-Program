@@ -2,12 +2,12 @@
 
 Authors: Cameron Davis and Alexia John-Bellot
 
-### Objective
+## Description
 
-The purpose of this project is to implement a program that calculates the frequency of
-attendance of a gym member to reward them for their attendance.
+A python program that calculates the frequency of
+attendance of a gym member and rewards them for their attendance.
 
-### Achievements
+## Achievements
 
 Instead of attempting to collect data from a local gym, we created a dataset containing
 10 random names with a corresponding ‘x’ for each day a member attended the gym.
